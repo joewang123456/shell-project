@@ -1,0 +1,1 @@
+echo -e "/node_modules\n/build" > 1.txt 
